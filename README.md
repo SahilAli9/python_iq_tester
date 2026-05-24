@@ -9,7 +9,7 @@ sudo apt install git
 Clone Repository:
 
 ```bash
-git clone https://github.com/sahil9/python-iq-tester.git
+git clone https://github.com/SahilAli9/python-iq-tester.git
 ```
 
 Open Folder:
