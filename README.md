@@ -26,6 +26,11 @@ python3 quiz_project.py
 
 ---
 
+
+
+Preview
+(Screenshot_2026-05-22-22-53-35-392_com.termux.jpg)
+
 # 🧠 Topics Used
 
 - Variables
